@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [The Good Hacker](/EthicsPapers/CSCI235.docx)
+### [The Good Hacker](/EthicsPapers/CSCI235.pdf)
 
 -   **Class:** CSCI 235: Procedural Programming
 -   **Grade:** A
 
-### [The Ethical and Legal Conerns of Memes](/EthicsPapers/CSCI330.docx)
+### [The Ethical and Legal Conerns of Memes](/EthicsPapers/CSCI330.pdf)
 
 -   **Class:** CSCI 330: Computer Architecture
 -   **Grade:** B+
 
-### [Intellectual Property in the Modern Age](/EthicsPapers/CSCI332.docx)
+### [Intellectual Property in the Modern Age](/EthicsPapers/CSCI332.pdf)
 
 -   **Class:** CSCI 332: Applied Netowrking
 -   **Grade:** A
