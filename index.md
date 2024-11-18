@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Good Hacker](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** [Test] 
+-   **Grade:** [Test]
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
