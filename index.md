@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Battleship | CSCI 235](project1)
 
-![Project 1 Thumbnail Name](images/Battleship.jpg)
+![Project 1 Thumbnail Name](images/battleship.jpg)
 
 ---
 ### [Wordle Solver | CSCI 301](project2)
