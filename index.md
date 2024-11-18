@@ -34,33 +34,33 @@ Ethics Papers
 ### [The Good Hacker](/EthicsPapers/CSCI235.docx)
 
 -   **Class:** CSCI 235: Procedural Programming
--   **Grade:** 93
+-   **Grade:** A
 
-### [The Ethical and Legal aspects of Memes](/EthicsPapers/CSCI330.docx)
+### [The Ethical and Legal Conerns of Memes](/EthicsPapers/CSCI330.docx)
 
 -   **Class:** CSCI 330: Computer Architecture
--   **Grade:** 100
+-   **Grade:** B+
 
 ### [Intellectual Property in the Modern Age](/EthicsPapers/CSCI332.docx)
 
 -   **Class:** CSCI 332: Applied Netowrking
--   **Grade:** 100
+-   **Grade:** A
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Goodwill Industries Breach](/presentations/Presentation%20#1.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 405: Principles of Cybersecurity
+- **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [The 2020 US Government Breach](/presentations/2020%20US%20Gov%20Hack.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 405: Principles of Cybersecurity
+- **Grade:** A
 
 ---
 
