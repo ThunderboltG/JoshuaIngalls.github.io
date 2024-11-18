@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Goodwill Industries Breach](/presentations/Presentation%20#1.pdf)
+### [Goodwill Industries Breach](/presentations/Goodwill.pdf)
 
 - **Class:** CSCI 405: Principles of Cybersecurity
 - **Grade:** A
 
 
-### [The 2020 US Government Breach](/presentations/2020%20US%20Gov%20Hack.pdf)
+### [The 2020 US Government Breach](/presentations/2020USHacks.pdf)
 
 - **Class:** CSCI 405: Principles of Cybersecurity
 - **Grade:** A
