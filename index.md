@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Job Webscraper | CSCI 301](project3)
+### [Python Job Webscraper | CSCI 301](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Goodwill Industries Breach](/presentations/Presentation%20#1.pptx)
+### [Goodwill Industries Breach](/presentations/Presentation%20#1.pdf)
 
 - **Class:** CSCI 405: Principles of Cybersecurity
 - **Grade:** A
 
 
-### [The 2020 US Government Breach](/presentations/2020%20US%20Gov%20Hack.pptx)
+### [The 2020 US Government Breach](/presentations/2020%20US%20Gov%20Hack.pdf)
 
 - **Class:** CSCI 405: Principles of Cybersecurity
 - **Grade:** A
