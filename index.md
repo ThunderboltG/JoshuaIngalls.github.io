@@ -14,17 +14,17 @@ Programming Projects
 ---
 ### [Wordle Solver | CSCI 301](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/wordle.jpg)
 
 ---
 ### [Python Job Webscraper | CSCI 301](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/jobscraper.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Ripple-Carry Adder | CSCI 330](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/rcadder.jpg)
 
 ---
 
