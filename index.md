@@ -9,20 +9,20 @@ Programming Projects
 ---
 ### [Battleship | CSCI 235](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/Battleship.pdf)
 
 ---
-### [Wordle | CSCI 301](project2)
+### [Wordle Solver | CSCI 301](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Job Webscraper | CSCI 301](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
