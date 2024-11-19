@@ -15,11 +15,11 @@ The Ripple-Carry Adder is a 32-bit adder used for processors. The rippleCarryAdd
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile and run the project.
 
 ```bash
-cd ./project
-python setup.py
+iverilog -o output rippleCarryAdder.v rippleCarryAdderTest.v 
+./output
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.

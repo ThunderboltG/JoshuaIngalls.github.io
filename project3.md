@@ -15,11 +15,10 @@ This job board web scraper was designed as the final project for CSCI 301. I ori
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to run the project.
 
 ```bash
-cd ./webScraper
-python3 webScraper.py
+python webScraper.py
 ```
 
 ## UI Design
