@@ -6,7 +6,7 @@ Python Job Webscraper
 -   **Class:** CSCI 301: Survey of Scripting Languages
 -   **Grade:** B
 -   **Language(s):** Python
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Python Scraper](https://github.com/ThunderboltG/PythonScraper)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -29,10 +29,6 @@ The CLI brings any job posting matching the descrpition of the search. Each aspe
 ![screenshot](webscraper/webscraperimage.png)  
 Fig 1. The web scraper
 
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Python Scraper](https://github.com/ThunderboltG/PythonScraper)  .
 
 [Back to Portfolio](./)
