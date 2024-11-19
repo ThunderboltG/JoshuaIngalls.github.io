@@ -11,7 +11,7 @@ Python Job Webscraper
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This job board web scraper was designed as the final project for CSCI 301. I origionally attempted to create the scraper to find jobs off of Indeed, but I was unable to get that working porperly. Instead, i pivoted to the [Python Job Board](https://pythonjobs.github.io/). This scraper uses BeautifulSoup to analyze the HTML structure of the site to find Python jobs and retrieving the details of each job posting
 
 ## How to compile and run the program
 
@@ -28,14 +28,8 @@ If the programming language does not require compilation, the update the heading
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](webscraper/pythonjobs.png)  
+Fig 1. The web scraper
 
 ## 3. Additional Considerations
 
