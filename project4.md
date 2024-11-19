@@ -31,7 +31,6 @@ The Test program is designed to output to the command line. The program displays
 ![screenshot](rca/rcatest.png)  
 Fig 1. The Ripple-Carry Adder
 
-
 For more details see [Ripple-Carry Adder](https://github.com/ThunderboltG/RC-Adder).
 
 [Back to Portfolio](./)
