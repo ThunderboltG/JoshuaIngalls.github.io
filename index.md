@@ -54,13 +54,13 @@ Presentations
 ### [Goodwill Industries Breach](/presentations/Goodwill.pdf)
 
 - **Class:** CSCI 405: Principles of Cybersecurity
-- **Grade:** A
+- **Grade:** B+
 
 
 ### [The 2020 US Government Breach](/presentations/2020USHacks.pdf)
 
 - **Class:** CSCI 405: Principles of Cybersecurity
-- **Grade:** A
+- **Grade:** B+
 
 ---
 
