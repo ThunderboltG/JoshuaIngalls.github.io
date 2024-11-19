@@ -26,7 +26,7 @@ If the programming language does not require compilation, the update the heading
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The Test program is designed to output to the command line. The program displays the current values of A and B, displays the current Cin value, and the Sum of the ripple-carry adder.
 
 ![screenshot](rca/rcatest.png)  
 Fig 1. The Ripple-Carry Adder
