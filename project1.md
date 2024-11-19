@@ -11,7 +11,9 @@ Battleship
 
 ## Project description
 
-Battleship was the final project of CSCI 235. This program is a recreation of the classic game Battleship in C++. The code using the cli to display two 10x10 boards, stored as arrays. 
+Battleship was the final project of CSCI 235. This program is a recreation of the classic game Battleship in C++.
+
+Computer code was provided by the instructure, Dr. Hayes.
 
 ## How to compile and run the program
 
