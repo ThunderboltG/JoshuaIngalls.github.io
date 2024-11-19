@@ -11,7 +11,7 @@ Battleship
 
 ## Project description
 
-Battleship was the final project of CSCI 235. This program is a recreation of the classic game Battleship in C++.
+Battleship was the final project of CSCI 235.
 
 Computer code was provided by the instructure, Dr. Hayes.
 
@@ -51,7 +51,7 @@ Fig 7. Game finished screen
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+While the program is currently not suited for a two-player match, a small change to main could allow for two players to face each other. The board would most likely be invisible to both players while the game is ongoing.
 
 For more details see [Battleship](https://github.com/ThunderboltG/Battleship).
 
