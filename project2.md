@@ -6,12 +6,12 @@ Wordle Solver
 -   **Class:** CSCI 301: Survey of Scripting Languages
 -   **Grade:** B
 -   **Language(s):** Bash
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Wordle](https://github.com/ThunderboltG/Wordle)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program is designed to help the user solve the New York Times game, Wordle. By using the words list for the game, the user inputs into the grep command what letters are not possible for that letter slot. The program will then give what words are still available within the parameters. After another guess, the user inputs what new letters are not possible for each letter slot, or puts the single letter of a correct letter.
 
 ## How to compile and run the program
 
@@ -43,6 +43,6 @@ Fig 3. Feedback when an error occurs.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Wordle](https://github.com/ThunderboltG/Wordle).
 
 [Back to Portfolio](./)

@@ -6,12 +6,12 @@ Battleship
 -   **Class:** CSCI 235: Procedural Programming
 -   **Grade:** A
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Battleship](https://github.com/ThunderboltG/Battleship)  
     (Please [email me](mailto:jpingalls@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Battleship was the final project of CSCI 235. This program is a recreation of the classic game Battleship in C++. The code using the cli to display two 10x10 boards, stored as arrays.
+Battleship was the final project of CSCI 235. This program is a recreation of the classic game Battleship in C++. The code using the cli to display two 10x10 boards, stored as arrays. 
 
 ## How to compile and run the program
 
@@ -51,6 +51,6 @@ Fig 7. Game finished screen
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Battleship](https://github.com/ThunderboltG/Battleship).
 
 [Back to Portfolio](./)

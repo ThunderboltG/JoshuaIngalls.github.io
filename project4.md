@@ -6,12 +6,12 @@ Ripple-Carry Adder
 -   **Class:** CSCI 330: Computer Architecture
 -   **Grade:** B+
 -   **Language(s):** Icarus Verilog
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Ripple-Carry Adder](https://github.com/ThunderboltG/RC-Adder)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-The Ripple-Carry Adder is a 32-bit adder used for processors.
+The Ripple-Carry Adder is a 32-bit adder used for processors. The rippleCarryAdder.v file runs the code to add the two 32 bit integers, while the test program visually demonstrates the tests through the CLI. A fullAdder is included as an include to allow the RCA to work properly.
 
 ## How to compile and run the program
 
@@ -35,6 +35,6 @@ Fig 1. The Ripple-Carry Adder
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Ripple-Carry Adder](https://github.com/ThunderboltG/RC-Adder).
 
 [Back to Portfolio](./)

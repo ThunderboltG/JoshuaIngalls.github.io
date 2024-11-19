@@ -11,24 +11,22 @@ Python Job Webscraper
 
 ## Project description
 
-This job board web scraper was designed as the final project for CSCI 301. I origionally attempted to create the scraper to find jobs off of Indeed, but I was unable to get that working porperly. Instead, i pivoted to the [Python Job Board](https://pythonjobs.github.io/). This scraper uses BeautifulSoup to analyze the HTML structure of the site to find Python jobs and retrieving the details of each job posting
+This job board web scraper was designed as the final project for CSCI 301. I origionally attempted to create the scraper to find jobs off of Indeed, but I was unable to get that working porperly. Instead, i pivoted to the [Python Job Board](https://pythonjobs.github.io/). This scraper uses BeautifulSoup to analyze the HTML structure of the site to find Python jobs and retrieving the details of each job posting.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd ./webScraper
+python3 webScraper.py
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The CLI brings any job posting matching the descrpition of the search. Each aspect of the job starts a new line, and blank space is found between job postings.
 
-![screenshot](webscraper/pythonjobs.png)  
+![screenshot](webscraper/webscraperimage.png)  
 Fig 1. The web scraper
 
 ## 3. Additional Considerations
