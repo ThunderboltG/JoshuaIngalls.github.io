@@ -5,7 +5,7 @@ Wordle Solver
 
 -   **Class:** CSCI 301: Survey of Scripting Languages
 -   **Grade:** B
--   **Language(s):** 
+-   **Language(s):** Bash
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 

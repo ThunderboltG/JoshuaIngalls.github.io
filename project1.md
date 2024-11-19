@@ -30,14 +30,23 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](battleship/battle_shipselect.png)  
+Fig 1. The launch screen and ship select menu
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](battleship/battle_startingboard.png)  
+Fig 2. The starting board of the game
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](battleship/battle_invalid.png)  
+Fig 3. Feedback when an invalid move occurs
+
+![screenshot](battleship/battle_alreadyshot.png)  
+Fig 4. Feedback when an already shot area occurs
+
+![screenshot](battleship/battle_sunk.png)  
+Fig 5. Feedback when a ship is sunk
+
+![screenshot](battleship/battle_win.png)  
+Fig 6. Game finished screen
 
 ## 3. Additional Considerations
 
