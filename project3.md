@@ -1,10 +1,10 @@
 [Back to Portfolio](./)
 
-Project 3 Title
+Python Job Webscraper
 ===============
 
--   **Class:** 
--   **Grade:** 
+-   **Class:** CSCI 301: Survey of Scripting Languages
+-   **Grade:** B
 -   **Language(s):** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
