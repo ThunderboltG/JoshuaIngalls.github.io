@@ -7,6 +7,10 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:jpingalls@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
+### [Cyberrange Expansion | CSCI 499](SeniorProject)
+
+![Project 1 Thumbnail Name](images/battleship.jpg)
+
 ### [Battleship | CSCI 235](project1)
 
 ![Project 1 Thumbnail Name](images/battleship.jpg)
