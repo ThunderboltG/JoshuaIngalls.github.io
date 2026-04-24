@@ -27,10 +27,10 @@ Password: csuBucs
 
 The Vms run almost exclsuivly through Powershell in the project. There is use of extrernal tools such as Wireshark and Nmap
 
-![screenshot](battleship/battle_shipselect.png)  
+![screenshot](images/windowshomescreen.png)  
 Fig 1. Windows Home Screen
 
-![screenshot](battleship/battle_startingboard.png)  
+![screenshot](images/linuxmachines.png)  
 Fig 2. All of the Linux VMs
 
 
