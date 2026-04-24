@@ -9,8 +9,9 @@ Programming Projects
 ---
 ### [Cyberrange Expansion | CSCI 499](SeniorProject)
 
-![Project 1 Thumbnail Name](images/battleship.jpg)
+![Project 1 Thumbnail Name](images/CyberRange.png)
 
+---
 ### [Battleship | CSCI 235](project1)
 
 ![Project 1 Thumbnail Name](images/battleship.jpg)
